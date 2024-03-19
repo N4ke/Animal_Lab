@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/wscpp/Animal_Lab/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\wscpp\\Animal_Lab\\src\\main.cpp",
+  "file": "C:/wscpp/Animal_Lab/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+}
+]

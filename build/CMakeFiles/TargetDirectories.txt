@@ -1,0 +1,3 @@
+C:/wscpp/Animal_Lab/build/CMakeFiles/main.dir
+C:/wscpp/Animal_Lab/build/CMakeFiles/edit_cache.dir
+C:/wscpp/Animal_Lab/build/CMakeFiles/rebuild_cache.dir
