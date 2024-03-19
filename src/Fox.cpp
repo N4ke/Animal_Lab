@@ -112,5 +112,7 @@ void Fox::what_does_say() {
     case TypeFox::VPallida:
         std::cout << "Chacha-chacha-chacha-chow!\n";
         break;
+    default:
+        std::cout << "Says nothing\n";
     }
 }
